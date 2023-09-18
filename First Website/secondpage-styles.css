@@ -8,10 +8,31 @@
     width: 500px;
     height: 700px;
     border: 1px solid black;
+    background: #3180c3;
 }
 
-.definition {
+.definition-style {
     width: 400px;
     height: 100px;
     margin: 25px 0px 0px 15px;
+}
+
+p {
+    margin: 5px 0px 0px 15px;
+    width: 425px;
+    font-size: 16px;
+}
+
+.spit-style {
+    width: 70%;
+    height: 30%;
+    margin: 5px 0px 0px 75px;
+}
+
+.text1 {
+    margin: 5px 0px 0% 15px;
+}
+
+.text2 {
+    margin: -27.5px 0px 0% 275px;
 }
