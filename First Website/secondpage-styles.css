@@ -1,7 +1,8 @@
 .webpage {
     display: flex;
     justify-content: center;
-    align-items: center;
+
+    
 }
 
 .page {
@@ -17,7 +18,7 @@
     margin: 25px 0px 0px 15px;
 }
 
-p {
+.definition-text {
     margin: 5px 0px 0px 15px;
     width: 425px;
     font-size: 16px;
@@ -29,10 +30,16 @@ p {
     margin: 5px 0px 0px 75px;
 }
 
-.text1 {
-    margin: 5px 0px 0% 15px;
+.headers {
+    display: flex;
+    justify-content: space-evenly;
 }
 
-.text2 {
-    margin: -27.5px 0px 0% 275px;
+
+.header-text-left {
+    margin: 0px 0px 0px 45px;
+}
+
+.header-text-right {
+    margin: -20px 0px 0px 265px;
 }
