@@ -1,0 +1,47 @@
+.webpage {
+    display: flex;
+    justify-content: center;   
+}
+
+.page {
+    width: 550px;
+    height: 820px;
+    border: 1px solid black;
+    background: #3180c3;
+}
+
+.definition-style {
+    width: 400px;
+    height: 100px;
+    margin: 25px 0px 0px 15px;
+}
+
+.definition-text {
+    margin: 5px 0px 0px 15px;
+    width: 425px;
+    font-size: 16px;
+}
+
+.spit-style {
+    width: 90%;
+    height: 50%;
+    margin: 5px 0px 0px 0px;
+}
+
+.header-left {
+    margin: 0px 0px 0px 30px;
+}
+
+.header-right {
+    margin: -48px 0px 0px 325px;
+}
+
+.header-text-left {
+    margin: -10px 0px 0px 30px;
+    width: 180px;
+}
+
+.header-text-right {
+    margin: -112px 0px 0px 325px;
+    width: 200px;
+}
