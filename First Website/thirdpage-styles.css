@@ -1,0 +1,49 @@
+.webpage {
+    display: flex;
+    justify-content: center;   
+}
+
+.page {
+    width: 1000px;
+    height: 1800px;
+    border: 1px solid black;
+    background: #3180c3;
+}
+
+.title {
+    font-size: 290%;
+    text-align: center;
+    margin: 0% 0% 0% -3%;   
+}
+
+.spit-style {
+    width: 40%;
+    height: 690%;
+}
+
+.spit-position {
+    display: flex;
+    justify-content: right;
+    height: 10%;
+    margin: 7.5% 7.5% 0% 0%;
+}
+
+.left-image-style {
+    width: 40%;
+    height: 250%;
+}
+
+.leftimage1-position {
+    height: 10%;
+    margin: -18% 0% 0% 7.5%;
+}
+
+.leftimage2-position {
+    height: 10%;
+    margin: 61% 0% 0% 7.5%;
+}
+
+p {
+    font-size: 150%;
+    width: 40%
+}

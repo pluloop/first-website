@@ -1,13 +1,11 @@
 .webpage {
     display: flex;
-    justify-content: center;
-
-    
+    justify-content: center;   
 }
 
 .page {
-    width: 500px;
-    height: 700px;
+    width: 550px;
+    height: 820px;
     border: 1px solid black;
     background: #3180c3;
 }
@@ -25,25 +23,25 @@
 }
 
 .spit-style {
-    width: 70%;
-    height: 30%;
-    margin: 5px 0px 0px 75px;
+    width: 90%;
+    height: 50%;
+    margin: 5px 0px 0px 0px;
 }
 
-.headers {
-    display: flex;
-    justify-content: space-evenly;
+.header-left {
+    margin: 0px 0px 0px 30px;
+}
+
+.header-right {
+    margin: -48px 0px 0px 325px;
 }
 
 .header-text-left {
-    margin: -10px 0px 0px 45px;
+    margin: -10px 0px 0px 30px;
     width: 180px;
-    border: 1px solid black;
-
 }
 
 .header-text-right {
-    margin: -112px 0px 0px 265px;
+    margin: -112px 0px 0px 325px;
     width: 200px;
-    border: 1px solid black;
 }
