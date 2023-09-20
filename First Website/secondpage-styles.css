@@ -35,11 +35,15 @@
     justify-content: space-evenly;
 }
 
-
 .header-text-left {
-    margin: 0px 0px 0px 45px;
+    margin: -10px 0px 0px 45px;
+    width: 180px;
+    border: 1px solid black;
+
 }
 
 .header-text-right {
-    margin: -20px 0px 0px 265px;
+    margin: -112px 0px 0px 265px;
+    width: 200px;
+    border: 1px solid black;
 }
