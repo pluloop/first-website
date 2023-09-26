@@ -5,7 +5,7 @@
 
 .page {
     width: 1000px;
-    height: 1800px;
+    height: 750px;
     border: 1px solid black;
     background: #3180c3;
 }
@@ -46,4 +46,38 @@
 p {
     font-size: 150%;
     width: 40%
+}   
+
+@media only screen and (max-width: 375px) {
+    .title {
+        font-size: 120%;
+        text-align: center;
+        margin: 0% 0% 0% -3%;   
+    }
+    
+    .spit-style {
+        display: none;
+    }
+    
+    .left-image-style {
+        width: 60%;
+        height: 225%;
+        margin: -2.5% 0% 0% 15%
+    }
+    
+    .leftimage1-position {
+        height: 10%;
+        margin: -18% 0% 0% 7.5%;
+    }
+    
+    .leftimage2-position {
+        height: 10%;
+        margin: 77.5% 0% 0% 7.5%;
+    }
+    
+    p {
+        font-size: 100%;
+        width: 62.5%;
+        margin: 0% 0% 0% 15%;
+    }  
 }
